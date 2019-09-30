@@ -12,7 +12,7 @@ The repository contains 6 files:
 * 1 ReadMe file - ReadMe.md
 * 1 Project writeup - writeup.pdf
 
-## Code Usage - (Python 3.6.2, conda 4.3.23
+## Code Usage - (Python 3.6.2, conda 4.3.23)
 1. Install required python libraries from requirements.txt <br>
 (refer to https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1 for steps to install libraries using requirements.txt)
 2. Download all Jupyter notebook and Dataset files into one directory.
