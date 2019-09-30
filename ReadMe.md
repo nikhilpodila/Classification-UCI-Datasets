@@ -6,11 +6,12 @@ We investigate the performance of two linear classification techniques–**Logis
 We found that LDA is computationally more intensive than logistic regression, but that logistic regression needs careful selection of the hyper parameters such as the learning rate and stopping criteria. We also inferred that selection of appropriate features and transformations during data preprocessing are crucial for linear classification techniques. Additionally, we tested different learning rates for logistic regression, plotted individual feature histograms, perform correlation analysis on the features and compare the accuracies of the models.
 
 ## Repository Structure
-The repository contains 6 files:
+The repository contains 7 files:
 * 2 Jupyter notebook files - breast-cancer-dataset-analysis.ipynb and wine-dataset-analysis.ipynb
 * 2 Dataset files - breast-cancer-wisconsin.data and winequality-red.csv
 * 1 ReadMe file - ReadMe.md
 * 1 Project writeup - writeup.pdf
+* 1 Libraries file - requirements.txt
 
 ## Code Usage - (Python 3.6.2, conda 4.3.23)
 1. Install required python libraries from requirements.txt <br>
