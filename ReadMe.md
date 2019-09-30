@@ -1,5 +1,6 @@
 # Linear Classification - Red wine and Breast Cancer datasets
 ### Contributors: Shantanil Bagchi, Nikhil Podila, Surya
+### Mini-Project 1 - COMP 551 Applied Machine Learning - McGill University
 
 ## Abstract
 We investigate the performance of two linear classification techniques–**Logistic Regression** and **Linear Discriminant Analysis**–on the red wine quality and breast cancer datasets. We preprocess the data, analyse the features, before implementing the linear models and comparing their performance. <br>
